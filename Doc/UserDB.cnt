@@ -1,0 +1,15 @@
+:BASE UserDB.hlp
+:Title UserDB Help
+1 Introduction =Introduction
+1 Main Functions
+2 User List Function =UserList
+2 AccessFlag Function =AccessFlags
+2 CheckPoint Function =CheckPoints
+1 Other Functions
+2 UserID =UserID
+2 CPVerify Function =CPVerify
+2 MatchUser Function =MatchUser
+2 ParseCPFlags =ParseCPFlags
+2 VerifyPassword Function =VerifyPassword
+1 Glossary
+2 Glossary =Glossary
